@@ -160,7 +160,7 @@ This is standard Zeppelin SafeMath, again, issues should be brought up with the 
 
 ##### END
 
-Please submit any issues to our GitHub, and feel free to contact development@EGC.IO with any issues.
+Please submit any issues to our GitHub, and feel free to contact tech@egc.network with any issues.
 
 If you are privacy centric, please use our PGP Key below.
 
